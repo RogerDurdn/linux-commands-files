@@ -1,0 +1,13 @@
+aFile.txt
+awesome.PHP
+dem.tst
+one.php
+one.txt
+output.txt
+plus.txt
+some.php
+someFolder
+someda.txt
+test.txt
+three.php
+three.txt

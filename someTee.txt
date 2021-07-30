@@ -1,0 +1,4 @@
+./some.php:4:function  func1(my funcy){
+./some.php:8:function  func2(my funcy){
+./some.php:12:function noFuncion(my funcy){
+./some.php:16:Function noFuncion(my funcy){

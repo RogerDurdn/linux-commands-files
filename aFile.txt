@@ -1,0 +1,9 @@
+
+function onText1(my funcy){
+now something
+}
+
+function onTexts2(my funcy){
+now something
+}
+

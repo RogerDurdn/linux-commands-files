@@ -1,0 +1,17 @@
+aFile.txt
+awesome.PHP
+dem.tst
+one.php
+one.txt
+outGrep.txt
+output.txt
+outtxt.txt
+plus.txt
+some.php
+someFolder
+someLs.txt
+someTee.txt
+someda.txt
+test.txt
+three.php
+three.txt
